@@ -1,0 +1,6 @@
+1,Janet,Smith,F.D. Roosevelt HS,30-OCT-11 00:00:00,36200
+2,Lee,Reynolds,F.D. Roosevelt HS,22-MAY-93 00:00:00,65000
+3,Samuel,Cole,Myers Middle School,01-AUG-05 00:00:00,43500
+4,Samantha,Bush,Myers Middle School,30-OCT-11 00:00:00,36200
+5,Betty,Diaz,Myers Middle School,30-AUG-05 00:00:00,43500
+6,Kathleen,Roush,F.D. Roosevelt HS,22-OCT-10 00:00:00,38500
